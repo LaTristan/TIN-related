@@ -47,7 +47,7 @@ double distance(double x1, double y1, int x2, int y2)
 }
 
 
-// 用于产生随机点
+// 用于产生随机点 to initialize
 void Randompoint(int width, int height, int *lx, int *ly, int n)
 {
 	int i;
